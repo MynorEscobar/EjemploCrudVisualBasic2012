@@ -1,0 +1,20 @@
+F:\EFPEM PRIMER SEMESTRE- 2019\PROGRAMACION COMERCIAL 2\final\Restaurante\Restaurante\bin\Debug\Restaurante.exe.config
+F:\EFPEM PRIMER SEMESTRE- 2019\PROGRAMACION COMERCIAL 2\final\Restaurante\Restaurante\bin\Debug\Restaurante.exe
+F:\EFPEM PRIMER SEMESTRE- 2019\PROGRAMACION COMERCIAL 2\final\Restaurante\Restaurante\bin\Debug\Restaurante.pdb
+F:\EFPEM PRIMER SEMESTRE- 2019\PROGRAMACION COMERCIAL 2\final\Restaurante\Restaurante\bin\Debug\Restaurante.xml
+F:\EFPEM PRIMER SEMESTRE- 2019\PROGRAMACION COMERCIAL 2\final\Restaurante\Restaurante\obj\Debug\Restaurante.Form1.resources
+F:\EFPEM PRIMER SEMESTRE- 2019\PROGRAMACION COMERCIAL 2\final\Restaurante\Restaurante\obj\Debug\Restaurante.Resources.resources
+F:\EFPEM PRIMER SEMESTRE- 2019\PROGRAMACION COMERCIAL 2\final\Restaurante\Restaurante\obj\Debug\Restaurante.vbproj.GenerateResource.Cache
+F:\EFPEM PRIMER SEMESTRE- 2019\PROGRAMACION COMERCIAL 2\final\Restaurante\Restaurante\obj\Debug\Restaurante.exe
+F:\EFPEM PRIMER SEMESTRE- 2019\PROGRAMACION COMERCIAL 2\final\Restaurante\Restaurante\obj\Debug\Restaurante.xml
+F:\EFPEM PRIMER SEMESTRE- 2019\PROGRAMACION COMERCIAL 2\final\Restaurante\Restaurante\obj\Debug\Restaurante.pdb
+D:\Documents\Visual Studio 2012\Projects\Restaurante\Restaurante\bin\Debug\Restaurante.exe.config
+D:\Documents\Visual Studio 2012\Projects\Restaurante\Restaurante\obj\Debug\Restaurante.exe
+D:\Documents\Visual Studio 2012\Projects\Restaurante\Restaurante\obj\Debug\Restaurante.xml
+D:\Documents\Visual Studio 2012\Projects\Restaurante\Restaurante\obj\Debug\Restaurante.pdb
+D:\Documents\Visual Studio 2012\Projects\Restaurante\Restaurante\bin\Debug\Restaurante.exe
+D:\Documents\Visual Studio 2012\Projects\Restaurante\Restaurante\bin\Debug\Restaurante.pdb
+D:\Documents\Visual Studio 2012\Projects\Restaurante\Restaurante\bin\Debug\Restaurante.xml
+D:\Documents\Visual Studio 2012\Projects\Restaurante\Restaurante\obj\Debug\Restaurante.Form1.resources
+D:\Documents\Visual Studio 2012\Projects\Restaurante\Restaurante\obj\Debug\Restaurante.Resources.resources
+D:\Documents\Visual Studio 2012\Projects\Restaurante\Restaurante\obj\Debug\Restaurante.vbproj.GenerateResource.Cache
